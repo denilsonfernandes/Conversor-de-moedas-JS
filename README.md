@@ -27,4 +27,5 @@
 <br>
 -JavaScript
 <br>
+<img src = "https://raw.githubusercontent.com/denilsonfernandes/aula-Java-Script/1c0cd06b54376581ace213e44703444b4a4a8aa9/Dev%20Sorteio/assets/dev%20sorteio.png"/>
 
